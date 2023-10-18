@@ -94,3 +94,4 @@ Genius is licensed under the MIT License. See the [LICENSE](LICENSE) file for mo
 Have questions or suggestions? Feel free to contact our team at contact@geniusai.com or open an issue in this repository.
 
 Let's create the future of AI together! 🌐✨
+simplifi-tool.vercel.app
