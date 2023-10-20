@@ -27,19 +27,7 @@ Genius is a cutting-edge SaaS AI platform that empowers businesses with powerful
 
 - **OpenAI**: Tap into advanced AI capabilities with OpenAI, empowering your applications with natural language processing and more.
 
-- **Zustand**: State management made simple with Zustand, providing efficient and scalable state handling.
 
-- **Crisp-Chat**: Integrate Crisp-Chat for real-time customer support and engagement.
-
-- **OpenAI-API**: Access OpenAI's API directly to leverage state-of-the-art AI models.
-
-- **ClerkAuth**: Implement secure authentication and user management with ClerkAuth.
-
-- **Shadcn-UI**: UI components for enhanced visual appeal and smoother user interactions.
-
-- **Replicate-API**: Data synchronization made easy with Replicate-API.
-
-- **Lucide-React**: Icon set for beautiful and scalable vector icons in your React applications.
 
 ## Deployment
 
